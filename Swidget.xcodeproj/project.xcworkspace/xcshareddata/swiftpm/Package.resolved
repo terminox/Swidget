@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CryptoCurrencyKit",
+        "repositoryURL": "https://github.com/iCell/CryptoCurrencyKit",
+        "state": {
+          "branch": null,
+          "revision": "61b725a65643ff9668c02e6915982ace109e2716",
+          "version": "0.3.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
